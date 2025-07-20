@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\quizapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:quizapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\migrations\\20250512150628_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:migrations\\20250512150628_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|c:\\users\\hello\\documents\\my .net project journey\\quiz app\\quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7F97B9-3332-49FF-92BA-3CE9CDCF4DA4}|QuizApi.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:624622992:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67740852:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1965187089:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:799891375:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwF8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:38:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:45:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\Participant.cs",
+              "RelativeToolTip": "Models\\Participant.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:20:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizApi.csproj",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\QuizApi.csproj",
+              "RelativeDocumentMoniker": "QuizApi.csproj",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\QuizApi.csproj",
+              "RelativeToolTip": "QuizApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T16:43:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T14:13:34.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T16:21:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\QuizDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\QuizDbContext.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\QuizDbContext.cs",
+              "RelativeToolTip": "Models\\QuizDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:26:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:29:12.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T17:32:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:46:31.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250512150628_initial create.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Migrations\\20250512150628_initial create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250512150628_initial create.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Documents\\my .net project journey\\Quiz app\\QuizApi\\Migrations\\20250512150628_initial create.cs",
+              "RelativeToolTip": "Migrations\\20250512150628_initial create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:06:28.748Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
